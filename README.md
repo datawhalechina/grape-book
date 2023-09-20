@@ -1,11 +1,14 @@
-# 图深度学习从理论到实践
+# 深度图学习 Deep Graph Learning
 
-*注：名称暂定这个，之后再改。
+<div align=center>
+<p>葡萄书：深度图学习 Deep Graph Learning</p>
+<img src="https://raw.githubusercontent.com/datawhalechina/pumpkin-book/master/res/qrcode.jpeg" width = "180" height = "180">
+</div>
 
 ## 项目简介
 
 本项目基于但不限于《图深度学习从理论到实践》一书，旨在帮助读者无痛入门 GNN 。除了介绍深度学习和图基础知识以及经典GNN模型外，我们还基于开源的图学习框架 DGL 和 PyG 提供了推荐、风控等领域的应用案例，方便读者快速上手实践 GNN，最后给出了前沿进展和相关资料供爱学习的读者进一步学习。
-
+·
 ## 项目动机
 恰逢 Datawhale 图书解读开源活动，借此契机督促个人系统的读书学习，也鼓舞大家参与到开源生态共建当中，让 GNN 能在更多领域碰撞出火花。
 
