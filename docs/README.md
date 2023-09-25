@@ -10,7 +10,6 @@
 
 ## 目录
 本书主要使用 `markdown` 进行书写，本书的内容存放在 `docs` 目录下，每章有一个单独的目录，存放 `markdown` 和图片文件。
-
 | 章节 | 内容 |
 | :--- | :--- |
 | 第一章 | 介绍 |  |
@@ -28,7 +27,7 @@
 
 ## 贡献者
 
-- [@小饭](https://github.com/xinqi-fan)：项目负责人，负责第一章介绍、第二章图理论基础、第四章图表示学习、及各章节校对
+- [@小饭](https://github.com/xinqi-fan)：项目负责人，负责第一章介绍、第二章图理论基础、第三章图表示学习、及各章节校对
 - [@银晗](https://github.com/YinHan-Zhang)：负责第三章深度学习基础
 - [@洋](https://github.com/liu-yang-maker?tab=achievements)：负责第五章图卷积网络
 - [@汝超](https://github.com/rickyxume)：项目发起人，负责第六章关系图卷积神经网络
