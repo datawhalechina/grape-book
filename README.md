@@ -30,7 +30,7 @@
 - [@银晗](https://github.com/YinHan-Zhang)：负责第三章深度学习基础
 - [@洋](https://github.com/liu-yang-maker?tab=achievements)：负责第五章图卷积网络
 - [@汝超](https://github.com/rickyxume)：项目发起人，负责第六章关系图卷积神经网络
-- [@凯](https://github.com/HaSai666)：负责第六章图注意力网络
+- [@凯](https://github.com/HaSai666)：负责第七章图注意力网络
 
 
 ## 参与贡献
