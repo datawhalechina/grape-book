@@ -13,13 +13,13 @@
 
 | 章节 | 内容 |
 | :--- | :--- |
-| 第一章 | 介绍 |  |
-| 第二章 | 图理论基础 |
-| 第三章 | 深度学习基础 |
-| 第四章 | 图表示学习 |
-| 第五章 | 图卷积网络 |
-| 第六章 | 关系图卷积神经网络 |
-| 第七章 | 图注意力网络 |
+| 第一章 | [介绍](https://datawhalechina.github.io/grape-book/#/docs/01%E4%BB%8B%E7%BB%8D/01%E4%BB%8B%E7%BB%8D) |  |
+| 第二章 | [图理论基础](https://datawhalechina.github.io/grape-book/#/docs\02%E5%9B%BE%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80\02%E5%9B%BE%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80) |
+| 第三章 | [深度学习基础](https://datawhalechina.github.io/grape-book/#/docs\03%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80\03%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80) |
+| 第四章 | [图表示学习](https://datawhalechina.github.io/grape-book/#/docs\04%E5%9B%BE%E8%A1%A8%E7%A4%BA%E5%AD%A6%E4%B9%A0\04%E5%9B%BE%E8%A1%A8%E7%A4%BA%E5%AD%A6%E4%B9%A0) |
+| 第五章 | [图卷积网络](https://datawhalechina.github.io/grape-book/#/docs\05%E5%9B%BE%E5%8D%B7%E7%A7%AF%E7%BD%91%E7%BB%9C\05%E5%9B%BE%E5%8D%B7%E7%A7%AF%E7%BD%91%E7%BB%9C) |
+| 第六章 | [关系图卷积神经网络](https://datawhalechina.github.io/grape-book/#/docs\06%E5%85%B3%E7%B3%BB%E5%9B%BE%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C\06%E5%85%B3%E7%B3%BB%E5%9B%BE%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C) |
+| 第七章 | [图注意力网络](https://datawhalechina.github.io/grape-book/#/docs\07%E5%9B%BE%E6%B3%A8%E6%84%8F%E5%8A%9B%E7%BD%91%E7%BB%9C\07%E5%9B%BE%E6%B3%A8%E6%84%8F%E5%8A%9B%E7%BD%91%E7%BB%9C) |
 | ... | ...|
 
 本书第一版包含第一到七章，涵盖了最常见的各类图神经网络理论和代码讲解。后续章节将包含图神经网络在各个领域内更加实际的应用案例。
