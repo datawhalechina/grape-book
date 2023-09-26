@@ -1,12 +1,12 @@
 # 图深度学习（葡萄书）
 
 <div align=center>
-<img src="figures/grape_book_logo.png" width = "380" height = "240">
+<img src="figures/grape_book_logo.png" width = "380">
 </div>
 
 ## 葡萄书简介
 
-本项目基于但不限于《图深度学习从理论到实践》一书，旨在帮助读者无痛入门 图深度学习 。除了介绍深度学习和图基础知识以及经典图神经网络模型的理论外，我们还基于开源的图框架 NetworkX， DGL 和 PyG 提供了直接的上手代码。
+本教程主要基于京东团队的《图深度学习从理论到实践》，密西根州立大学的汤继良老师团队《图深度学习》，斯坦福大学 CS224W 图机器学习的内容进行整合，旨在帮助读者无痛入门 图深度学习 。除了介绍深度学习和图基础知识以及经典图神经网络模型的理论外，我们还基于开源的图框架 NetworkX， DGL 和 PyG 提供了直接的上手代码。
 
 ## 目录
 在线阅读地址：https://datawhalechina.github.io/grape-book
