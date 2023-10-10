@@ -42,7 +42,7 @@
 如果你对 Datawhale 很感兴趣并想要发起一个新的项目，欢迎查看 [Datawhale 贡献指南](https://github.com/datawhalechina/DOPMC#%E4%B8%BA-datawhale-%E5%81%9A%E5%87%BA%E8%B4%A1%E7%8C%AE)。
 
 ## 致谢
-本教程得到了《图深度学习从理论到实践》作者[姚老师](https://github.com/LuckBoyPhd/Resume)的肯定与支持，大家可以可以在[京东](https://item.jd.com/13167491.html )购买此书的纸质或电子版进行更加深入的学习！
+本教程得到了《图深度学习从理论到实践》作者[姚博士](https://github.com/LuckBoyPhd/Resume)的肯定与支持，大家可以可以在[京东](https://item.jd.com/13167491.html )购买此书的纸质或电子版进行更加深入的学习！
 
 ## 关注我们
 <div align=center>
